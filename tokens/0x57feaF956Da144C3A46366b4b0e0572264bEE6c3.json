@@ -1,0 +1,10 @@
+{
+    "symbol": "WBTC",
+    "name": "Wrapped Bitcoin",
+    "website": "https://tomochain.com",
+    "communities": {
+        "email": "help@wbtc.org",
+        "twitter": "https://twitter.com/Wrapped Bitcoin",
+        "facebook": "https://www.facebook.com/WrappedBitcoin",
+    }
+}
